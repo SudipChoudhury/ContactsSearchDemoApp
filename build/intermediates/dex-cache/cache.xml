@@ -11,6 +11,24 @@
         <dex dex="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\build\intermediates\pre-dexed\debug\classes_9365531a9a086962723ad33b700cd6d3afa99796.jar" />
     </item>
     <item
+        is-multidex="true"
+        jar="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="caff8e51a24901cfc9cd7e1cf83d84f4cb0c103b">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_827e7680d52f277021240eda7023ccb67943bec4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="dae1bc0b52a6c5a2a49a716567327262dd038a33">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_857200362a9806e16012b15be134dd89051c318b\classes.dex" />
+    </item>
+    <item
         is-multidex="false"
         jar="C:\Users\sudchoud\.android\build-cache\e52ddb86ff776da420e0668f7684e28bfce868b6\output\jars\classes.jar"
         jumboMode="false"
@@ -18,6 +36,24 @@
         revision="25.0.3"
         sha1="914f5d3e3ace66080e59613708f06d129a222e25">
         <dex dex="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\build\intermediates\pre-dexed\debug\classes_bbb0bbc9b2cff8c0db370b7d9736fd9d66f5d70f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sudchoud\.android\build-cache\4d520113753ae04192dbbc53e59917c44ea38f9f\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8531f2d46b35de75e6130f25830e0c2c0d6bb98c">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_9365531a9a086962723ad33b700cd6d3afa99796\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\sudchoud\.android\build-cache\e52ddb86ff776da420e0668f7684e28bfce868b6\output\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="914f5d3e3ace66080e59613708f06d129a222e25">
+        <dex dex="C:\Users\sudchoud\AndroidStudioProjects\ContactsSearchDemoApp\Application\build\intermediates\transforms\dex\debug\folders\1000\10\classes_bbb0bbc9b2cff8c0db370b7d9736fd9d66f5d70f\classes.dex" />
     </item>
 
 </items>
